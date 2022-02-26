@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the two letters concerning alterations in the liturgy in answer to Vox cleri / by a London presbyter.</title>
+            <author>Basset, William, 1644-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71214</idno>
+            <idno type="STC">Wing V533</idno>
+            <idno type="STC">ESTC R595</idno>
+            <idno type="EEBO-CITATION">08833902</idno>
+            <idno type="OCLC">ocm 08833902</idno>
+            <idno type="VID">41920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41920)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:31 or 1274:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the two letters concerning alterations in the liturgy in answer to Vox cleri / by a London presbyter.</title>
+                  <author>Basset, William, 1644-1695.</author>
+               </titleStmt>
+               <extent>[4], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Basset by Wing.</note>
+                  <note>This work appears at reel 902:31 as Wing V533 and at reel 1274:9 as Wing B1055 (entry cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Long, Thomas, 1621-1707. --  Vox cleri.</term>
+               <term>Church of England --  Liturgy.</term>
+               <term>Clergy --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:41920:1"/>
+            <pb facs="tcp:41920:1" rendition="simple:additions"/>
+            <p>A VINDICATION Of the Two LETTRES CONCERNING Alterations in the Liturgy; IN ANSWER TO <hi>VOX CLERI.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:41920:2"/>
+            <pb facs="tcp:41920:2" rendition="simple:additions"/>
+            <p>A VINDICATION Of the Two LETTERS CONCERNING Alterations in the Liturgy; IN ANSWER TO <hi>Vox Cleri.</hi>
+            </p>
+            <p>By a London Presbyter.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41920:3"/>
+            <pb n="1" facs="tcp:41920:3"/>
+            <head>A VINDICATION OF THE <hi>Two Letters</hi> TO THE CONVOCATION</head>
+            <p>THo' the two Letters concerning the Convocation are ſufficient to ſatisfie any reaſonable and unpre<g ref="char:EOLhyphen"/>judiced Man, that alterations in our Liturgy are not only Lawful, but [in this juncture] expedient too: Yet a late Pamphlet intituled <hi>Vox Cleri,</hi> gives me a juſt oc<g ref="char:EOLhyphen"/>casion both of confirming what they have ſaid, and alſo of expoſing this Pamphlets little Pleas and Sophiſtry, againſt ſo Wiſe and Charitable an undertaking.</p>
+            <p>The very Title, viz. <hi>Vox Cleri:</hi> or, <hi>The Senſe of the Clegy,</hi> ſpeaks the Author both weak and peeviſh; and the Quotati<g ref="char:EOLhyphen"/>on of <hi>Prov.</hi> 24.21. in the Title page —<hi>Fear God, and the King, and meddle not with them that are given to Change,</hi> is an argument <hi>ex abundanti</hi> this way.</p>
+            <p>For what hath this buſie Thing to do with the Senſe of the Clergy? What Commiſſion hath he to acquaint the World with their Minds? The very thing it ſelf betrays the Au<g ref="char:EOLhyphen"/>thor to a juſt ſuſpicion, as ſpeaking more of Deſign than Truth,</p>
+            <pb n="2" facs="tcp:41920:4"/>
+            <p>But what Clergy doth he mean? It muſt be either the Convocation, or thoſe in his Neighbourhood, <hi>p.</hi> 1. if the former, the thing is falſe; for he declares in his <hi>Proteſta<g ref="char:EOLhyphen"/>tion,</hi> that there is nothing yet propoſed to them, therefore they have not yet Voted in this matter, whence alone we may conclude their Senſe; if the latter, the thing is weak and frivolous, becauſe to theſe we oppoſe the <hi>Vox Cleri, or Senſe of the Clergy,</hi> in the City, as well as elſe where, who muſt be allowed to be more conſiderable than thoſe in a Country Neighbourhood; for (to mention no more) theſe are few, and (as we have reaſon to belie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e) prejudi<g ref="char:EOLhyphen"/>ced by Le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters miſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epreſenting the whole Affair. Indeed his Reflections, <hi>p.</hi> 24. ſay, they have not ſeen any Pam<g ref="char:EOLhyphen"/>phlets, or [Printed] Letters againſt Alterations; but this implies, that they have ſeen Written ones, elſe what need of this reſtriction? In truth this is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the true cauſe of our preſent hea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and difficulties, which ſpeaks the Senſe of ſome Men to be more a <hi>Paſſion</hi> than a <hi>true Judg<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>As to that Scripture, <hi>Solomon</hi> ſpoke not in reference to Forms and Ceremonies, which is our Subject, but of ſub<g ref="char:EOLhyphen"/>ſtantial Duties to God and the King; which affects this Gentleman more than thoſe whom he oppoſes, in that he makes it his buſineſs, <hi>p.</hi> 2. <hi>&amp;c.</hi> to ſham and put tricks upon His Majeſty's Commiſſion; therefore his application of it is but an abſur'd wreſting of the Sacred Text. It is true, it hath been ſometimes uſed this way, from the general force and ſignification of the Word, which yet ſpeaks more of Phanſie than Jugdment, but ought not by formal Quo<g ref="char:EOLhyphen"/>tation, for this imports the ſenſe the Author uſes it in, to be the ſenſe of the Holy Pen-man.</p>
+            <p>According to this the Author muſt be of no Church in the World; for where is the HoIy-Kiſs and Love-Feaſts? Where are Deaconeſſe, Exorciſms, with a multitude or Ceremonies in Baptiſm, as thrice Diping, Anointing, <hi>&amp;c.</hi> Where is the Water mingled with the Sacramental Wine?
+<pb n="3" facs="tcp:41920:4"/>Where Kneeling in Prayer all the Week, in token of the Fall by ſin; and Standing on <hi>Sundays,</hi> as well as all that ſpace between <hi>Eaſter</hi> and <hi>Pentecoſt,</hi> ſignifying the Reſurrection? Which things we frequently meet with, both the <hi>Greek</hi> and <hi>Latin</hi> Fathers. Where is the ſteddineſs of the <hi>Greek</hi> Church, which hath altered her Liturgy ſo often, that a Collection of her ſeveral Forms are ſaid by the <hi>Letter to a Friend,</hi> to amount to Twenty Volums? Where is the un<g ref="char:EOLhyphen"/>changeableneſs of the <hi>Latin</hi> Church, which hath often al<g ref="char:EOLhyphen"/>tered her publick Service, notwithſtanding her pretences to an Infallibility? Where is the conſtancy of the Church of <hi>England,</hi> which hath changed not only under Popery, but under <hi>Edw.</hi> 6. <hi>Q. Eliz.</hi> and <hi>Car.</hi> 2. therefore this Gen<g ref="char:EOLhyphen"/>tleman with vanity enough adviſes, <hi>not to meddl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with them that are given to change;</hi> while he profeſſes himſelf a Mem<g ref="char:EOLhyphen"/>ber of that Church that hath changed ſo often already, and allows of farther changes ſtill.</p>
+            <div type="part">
+               <p>In the Book it ſelf he ſaith, <hi>p.</hi> 1. that the Clergy in his Neighbourhood <hi>are inclinable to part with ſeveral Ceremonies, and to ſubmit to many Alterations for the peace of the Church, and ſatisfaction of ſober Diſſenters.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> The Author is known to be himſelf a Member of the Covocation; therefore this Intelligence of the Election of Dr. <hi>Jane,</hi> which he pretends to have received from one of the Convocation; and the great ſatisfaction, he ſaith, it gives to the Clergy of thoſe parts, is all but a meer contri<g ref="char:EOLhyphen"/>vance, and may juſtly be ſuſpected to have more of a Trick than of Truth in it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Suppoſe this true; yet what have the Convocation to do with the Senſe of this Party, more than of anothers? Why ſhould they regard a little Plat in the Country, more than the Metropolis of this Kingdom? Or why ſhould our Pamphleter think to give the Convocation Laws from thoſe four notions, which himſelf, and other ſuggeſtions have begot in a few of his own Creatures?</p>
+               <pb n="4" facs="tcp:41920:5"/>
+               <p>They are to conſider what is fit to be done, not what a few prejudiced and deſigning Men would have them do. But,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> If they are thus inclined, let, that inclination appear in thoſe whom they have ſent up to this Convocation; elſe we muſt take all this but as a fair introduction to a foul de<g ref="char:EOLhyphen"/>ſign; and indeed his management of this affair gives us a ſhrewd ſuſpicion of it: For it ſeems theſe Gentlemen re<g ref="char:EOLhyphen"/>quired two things in order to ſuch condeſcentions, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. That Diſſenters apply themſelvs to the Convocation for Alterations, leſt they ſhould reject the kindneſs with a <hi>Quis requiſivit? p.</hi> 2. and</item>
+                  <item>2. That they declare what Alteration will ſatifie 'em, <hi>p.</hi> 3.</item>
+               </list>
+               <div type="section">
+                  <p>To the former of theſe we Anſwer,</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Suppoſe want of application may be granted to give him a moral aſſurance (as he ſaith) that conceſſions will be deſpiſed; yet this affects thoſe as the leading men, who are the uſual Addreſſers, or at moſt but ſome others of the Party, not all the People; many of whom we are morally aſſured ſtand ready for an accommodation.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Alterations are the thing which many of 'em have long Called and Wrote for; it is what they expect from the promiſe of the Biſhops, and acquieſcence of the Clergy, whence they now wait for the performance; while many begin to cenſure and reproach us, ſince they find a difficul<g ref="char:EOLhyphen"/>ty in it. Therefore there is neither reaſon nor temper in his inſiſting ſtill upon applications.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Some conceive, that ſome of their leading Men in<g ref="char:EOLhyphen"/>duſtriouſly neglect or refuſe ſuch applications, that here<g ref="char:EOLhyphen"/>upon by means of our ſtiffneſs, as well as otherwiſe, they may gain more than they believe the Church will give them, and if ſo, it concerns us in point of Prudence as well as
+<pb n="5" facs="tcp:41920:5"/>Duty, to grant them ſomething, leſt they get what we are unwilling to part from.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Some things impoſed are (without all controverſie) an offence to many weak ones; and certainly we ought to re<g ref="char:EOLhyphen"/>move the Stumbling-block (ſo far as the ſafety of the Church will permit) tho' they never Petition for the kindneſs, un<g ref="char:EOLhyphen"/>leſs their neglect of what we think is their Duty, may ex<g ref="char:EOLhyphen"/>cuſe our neglect of what we know to be our own. And indeed it is a pretty ſhuffle, that becauſe ſome Men are thought to be ſtiff, therefore the Church owes no regards either to them, or any of their Party, of whom many may be gained, if the fault is not our own.</p>
+                  <p>But in truth all this is only a blind excuſe for not doing what he hath no mind ſhould be done; for the cloſe of this Paragraph ſaith, it is declared in the Preface to the Litur<g ref="char:EOLhyphen"/>gy, as alſo in the Kings Eccleſiaſtical Commiſſion, that Al<g ref="char:EOLhyphen"/>terations may be made according to the exigency of times and occaſions; yet he oppoſes another part of the Preface to both, <hi>viz.</hi> That the Book, that is, of Common Prayer, <hi>as it stood before Eſtabliſhed by Law, doth not contain in it any thing contrary to the Word of God, or to ſound Doctrin, or which a godly Man may not with a good Conſcience uſe and ſubmit to, or which is not fairly defenſible</hi>— to which he adds, that it hath been altered for the better <hi>in ſome hundreds of places ſince,</hi> ſuggeſting hereby, that it needs no Alterations now; which gives an undoubted evidence,</p>
+                  <p n="1">1. Of his inconſiſtency with himſelf; for he argues againſt Alterations meerly for want of application from Diſſenters, and yet under the ſame Head changes his Topick, diſputing againſt ſuch Alterations from the perfection of our Liturgy; he would have none, becauſe Diſſenters ask for none, and then becauſe there is need of none: Certainly he ſhifts his Argument, becauſe he ſuſpects that the firſt prppoſed will not ſtand the ſhock, and therefore brings on this as a re<g ref="char:EOLhyphen"/>ſerve to ſupport it.</p>
+                  <pb n="6" facs="tcp:41920:6"/>
+                  <p n="2">2. This ſpeaks his Inſincerity; for he knows we plead for Alterations from a prudential neceſſity ariſing, not ſo much from the Book it ſelf, as from the weakneſs of ſome who miſunderſtand, and the perverſneſs of others who in<g ref="char:EOLhyphen"/>duſtriouſly abuſe it; What need then of juſtifying the Book in this argument, unleſs to amuſe the Reader with an heap of pleas to no purpoſe?</p>
+                  <p n="3">3. This diſcovers his groſe Inadvertency, in that he pleads againſt Alterations, from Diſſenters not asking for them; and yet in the ſame Head declares himſelf abſolutely againſt all Alterations, whether they ask or not; in that he uſes the Kings Commiſſion, and the Preface to the Com<g ref="char:EOLhyphen"/>mon Prayer, againſt the deſign of that Commiſſion, and that very Liberty which the Preface it ſelf doth give us; ſo fain would he carry on a deſign which he is aſhamed to own, <hi>(i. e.)</hi> hinder Alteration, and yet lay the fault at the Diſſenters doors.</p>
+                  <p>Whatever is at the bottom; this is generally the humor amongſt Men of this complexion; they wiſh for Peace, but will part with nothing for it; and the Gentlemen in this Authors Neighbourhood, who ſpeak fair but do nothing, are like the diſobedient Son who ſaid, I go, but went not; for which he had (I'le warrant you) as good reaſons as theſe before you.</p>
+               </div>
+               <div n="2" type="section">
+                  <p>2. He pleads, <hi>p.</hi> 3. That they ought to declare what Alterations will ſatisfie, elſe they have no reaſon to make any.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> This ſome of 'em have done already under <hi>Car.</hi> 2. and ſtill do by their frequent complaints, and the reaſons they give of their ſeparation. And the late pro<g ref="char:EOLhyphen"/>miſe of accommodation muſt reſpect the Alteration of thoſe things (ſo far as may be) that offend the more reaſonable and judicious amongſt 'em. Now after all this, for them to make new propoſals, is not only <hi>actum agere,</hi> but a
+<pb n="7" facs="tcp:41920:6"/>putting their Cauſe back, which is already known, and hath advanced ſo far as to have gained the promiſe of a due conſideration. Therefore there is now nothing want<g ref="char:EOLhyphen"/>ing on our parts in order to their caſe and our ſecurity, but a performance of that Promiſe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> By this Paragraph he expects, that all parties ſhould agree in their demands; which he knows, and <hi>p.</hi> 2. acknow<g ref="char:EOLhyphen"/>ledges is impoſſible, therefore his requiring impoſſible con<g ref="char:EOLhyphen"/>ditions of peace is no better, than a fallacious denial of that peace it ſelfe.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>Hence he urges the extravagancy of ſome men, that have trampled on Condeſcenſions made in the Year 1661. and others propoſed by the preſent Biſhop of <hi>Worceſter,</hi> in the Year 1681. which he thinks enough to render the Church juſtly ſour and peeviſh forever.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> He. withal acknowledges, that theſe are but ſome that flie ſuch heights, and grants us <hi>p.</hi> 2. that all cannot agree in common Propoſals, which utterly deſtroys his argument; for as ſome will not, ſo the very Differences amongſt themſelves do aſſure us, that others will accept rea<g ref="char:EOLhyphen"/>ſonable Condeſcenſions, and the gaining a part is not only all we expect, but is ſufficient to our end too.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Theſe few he quotes, by ſuch unreaſonable flights muſt be preſumed to deſign the obſtructing all future Al<g ref="char:EOLhyphen"/>terations, as knowing, that this is the ready way to break their Parties. Therefore our Pamphlet not only trifles, but alſo gratifies thoſe few hot and deſigning men, who in<g ref="char:EOLhyphen"/>tend not an accommodation, but the maintaining of a Faction.</p>
+            </div>
+            <div type="part">
+               <p>But <hi>p.</hi> 4. drives on the ſame argument, quoting a Book of Mr. <hi>R. B's,</hi> which ſaith, <hi>There are Forty ſinful particulars in our Communion, beſides Thirty tremendous Principles and Cir<g ref="char:EOLhyphen"/>cumſtantials, which affright Diſſenters from it; and the healing
+<pb n="8" facs="tcp:41920:7"/>attempt</hi> requires not ſuch abatements, as Authority now de<g ref="char:EOLhyphen"/>ſigns; but the <hi>admiſſion of their new Model for a Comprehen<g ref="char:EOLhyphen"/>ſion, which is ſuch as will make every Pariſh Church independent;</hi> All which things, <hi>p.</hi> 5. aſſure us, that the Convocation nei<g ref="char:EOLhyphen"/>ther can nor will alter, and yet if any one remain unaltered, the Schiſm will continue. Whence he asks <hi>Cui bono? To what end ſhould any Alterations be made?</hi> To which (he thinks) a ſatisfactory Anſwer cannot be given.</p>
+               <p>But this is an argument of the weakneſs of his reaſoning, not of the ſtrength of his Cauſe; for this ſuppoſes, that all Diſſenters are of the ſame mind; which is a poor fal<g ref="char:EOLhyphen"/>lacy called <hi>Petitio principii,</hi> a taking that for granted, which he muſt prove, elſe his whole cauſe falls to the ground. To which we Anſwer,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> It is well known, that Diſſenters under the ſame de<g ref="char:EOLhyphen"/>nomination are of very different minds, as to the mat<g ref="char:EOLhyphen"/>ters of our Church; for ſome are offended at one thing, ſome at another, and ſome at more, which together (they think) give a juſt cauſe of Separation. Therefore a few Alterations would leave ſome no Objection, and others too little (even in their own judgments) to juſtifie a Schiſm.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> This ſuppoſes, that Alterations will gain Diſſenters only, which we can never grant him; becauſe a great part of this Nation ſtands more or leſs doubtful, and indifferent between the Church and the Conventicle, who ſeeing the peaceable inclination of the Church, manifeſted by reaſonable Condeſcenſions, will unite with her, and become her ſupports; who elſe (upon our ſtiff<g ref="char:EOLhyphen"/>neſs) may joyn with Diſſenters, and together may find hands to pull her down. Therefore we have reaſon and motives enough in this undertaking, tho' we were in<g ref="char:EOLhyphen"/>fallibly certain, that not one Diſſenter would be gained by it.</p>
+               <pb n="9" facs="tcp:41920:7"/>
+               <p>This is ſo obvious, that he immediately ſtarts an Ob<g ref="char:EOLhyphen"/>jection, which he ſees will be certainly made againſt him, <hi>viz.</hi> that <hi>Alterations may pleaſe the King, the Parliament, and a great part of the Diſſenting Laity,</hi> by which we muſt under<g ref="char:EOLhyphen"/>ſtand all thoſe that are not in Communion with the Church.</p>
+               <p>In Anſwer to which, he Complements the King, Laſhes the Parliament, and (like a Law-giver) propoſes other meaſures towards the Laity; induſtriouſly evading that part of the Objection which he dare not undertake to Anſwer. But leaving this a while, we will purſue the preſent ar<g ref="char:EOLhyphen"/>gument.</p>
+               <p>In this Caſe we are to conſider, not what every Diſſenter would have, which is the way to hinder all Alterations, or to leave our ſelves nothing; but what Alterations will take away the greateſt occaſions of miſtake and cavil, as know<g ref="char:EOLhyphen"/>ing, that this will reduce ſome and leave others inexcuſable.</p>
+               <p>This was the method of the Church before; for the Pre<g ref="char:EOLhyphen"/>face to the Common Prayer ſaith, that tho' <hi>there were propo<g ref="char:EOLhyphen"/>ſals made, yet our aim was not to gratifie this or that Party in any their unreaſonable demands; but to do that, which to our best un<g ref="char:EOLhyphen"/>derſtanding we conceive might moſt tend to the preſervation of Peace, and <g ref="char:V">Ʋ</g>nity in the Church,</hi> &amp;c. And certainly the Church may Alter things now without any freſh Propoſals made, much better than ſhe could then without having any regards to them that were made; becauſe,</p>
+               <p n="1">1. Thoſe Propoſals then made, together with Complaints, Demands, and other Methods ſince, do give us a better un<g ref="char:EOLhyphen"/>derſtanding of Diſſenters, than thoſe Propoſals could give then; therefore (without any Propoſals now made) we have, leſs need of being informed what will ſatisfie Diſſen<g ref="char:EOLhyphen"/>ters, than the Church had then even after their Propoſals were received.</p>
+               <pb n="10" facs="tcp:41920:8"/>
+               <p n="2">2. Alterations then without regard to their Propoſals might exaſperate ſome, who might think themſelves neg<g ref="char:EOLhyphen"/>lected; but Alterations now without freſh Propoſals cannot exaſperate any, but may oblige the more, as being evidences of a free inclination to Peace and Unity. Therefore if thoſe methods gain'd ſome, theſe are likely to gain more. But</p>
+               <p n="3">3. Suppoſe they do not recover one Diſſenter, yet (as we ſaid) it is not to be imagined, but that they will fix many of the unſetled Multitude, who added to the Church, will leave Diſſenters the objects of our Pity, not of our Fear. This muſt be granted, and conſequently his principal argu<g ref="char:EOLhyphen"/>ment againſt Alterations, <hi>viz.</hi> the improbability of gain<g ref="char:EOLhyphen"/>ing Diſſenters is utterly overthrown.</p>
+            </div>
+            <div type="part">
+               <p>But our Author, <hi>p.</hi> 5, 6. leaves his Uſurped Province, for inſtead of giving reaſons againſt Alterations deſigned for winning Diſſenters, he is for reducing them by force; which methods (he ſaith) had left <hi>in ſome great Cities ſcarce three or four Perſons of any note, that kept off from our Communion, till Toleration diſordered all again.</hi>
+               </p>
+               <p>This very Plea doth farther evidence, not only the great preſumption of the Man, who preſcribes to all Authority, but of the great neceſſity of preſent Alterations too, becauſe</p>
+               <p n="1">1. A Toleration had not unſetled ſo many, had not the ſtrict terms of Communion made them ſo uneaſie: there<g ref="char:EOLhyphen"/>fore there ſeems to be (in our preſent circumſtances) an ab<g ref="char:EOLhyphen"/>ſolute neceſſity of preſent abatements, that we may reduce thoſe we have loſt, and keep them we yet have.</p>
+               <p n="2">2. Suppoſe, that nothing but a Toleration makes Altera<g ref="char:EOLhyphen"/>tions now neceſſary, yet if Authority thinks fit to put ſuch a neceſſity upon us, we ought in prudence and duty both, to apply our ſelves to that [perhaps] only expedient, which is now left us, whereby to preſerve our Church and People. If a Toleration made it lately neceſſary in the judgment of
+<pb n="11" facs="tcp:41920:8"/>all our Clergy, to promiſe Condeſcenſions, why ſhould not a Toleration now render it full as neceſſary to make them? The truth is, this Gentleman is of the ſame mind with the Book lately quoted, which is not for parting a Stake, but for having all or none; and were all Church-men on one band, and all Diſſenters on the other, of the ſame humor, we ſhould find the whole Nation as mad as the <hi>Pſalmiſts</hi> ſin<g ref="char:EOLhyphen"/>ners, who when any ſpoke of Peace, were making ready for Battle.</p>
+            </div>
+            <div type="part">
+               <p>He grants, <hi>p.</hi> 6. that they know not what the Commiſ<g ref="char:EOLhyphen"/>ſioners have done in order to an Alteration; and yet at the ſame time pleads, that <hi>the Alterations, which are ſaid to be prepared, will hazard the offending a greater number, than they are likely to gratifie.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> This is the ſame injuſtice, which the Authors pro<g ref="char:EOLhyphen"/>teſtation complains of, <hi>viz.</hi> That they were Condemned unheard; he cenſurſes the thing, and determins the conſe<g ref="char:EOLhyphen"/>quences, and yet confeſſes that he knows nothing of the matter, only as People ſay, who know as little as himſelf. This we may preſume is the effect of thoſe Letters, which were ſent abroad to prepoſſeſs and prejudice the Country-Clergy.</p>
+               <p>And indeed it is evil Surmiſes and wicked Repreſentati<g ref="char:EOLhyphen"/>ons of what men know not, that is the cauſe of moſt of our Heats and Miſchiefs. I know, that ſome hotteſt oppoſers of Alterations, have ſubmitted to the particulars prepared (when laid before 'em) as very reaſonable; tho' they have repreſented the whole, (unknown) as Monſtrous Innova<g ref="char:EOLhyphen"/>tions. And were they made publick, I doubt not, but they would ſhame theſe opprobrious Scandals caſt upon the Com<g ref="char:EOLhyphen"/>miſſioners, and themſelves. But in the mean time, we muſt expect a great deal of candour in this harangue, when the Author is ſo notoriouſly guilty himſelf, of what he thinks all his Art and Paſſion, little enough to expoſe in others.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:41920:9"/>
+               <p>In the ſame <hi>Page</hi> it is Objected, That Alterations <hi>will leave incorrigible Diſſenters the more inexcuſable;</hi> which he de<g ref="char:EOLhyphen"/>nies, ſaying, <hi>they will ſtill plead Conſcience, and under every Penalty still cry out of Perſecution.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> They may do ſo if they will; but yet theſe Pre<g ref="char:EOLhyphen"/>tences and Clamours will have ſo little colour of Reaſon and Juſtice, that they will neither gain them new Proſelites, nor keep all their old ones; for which reaſon, incorrigi<g ref="char:EOLhyphen"/>ble Diſſenters are as much againſt Alteration, as our Author; they are in the ſame cauſe, tho' aiming at different ends; and whether he or they are like (in our circumſtances) to be the gainer, let the World judge.</p>
+            </div>
+            <div type="part">
+               <p>In <hi>p.</hi> 7. He wheedles with Dr. <hi>Beveridges</hi> Sermon before the Convocation, and by breaking it into bits and ſhreds, would make it ſpeak contrary both to the Letter and deſign of it. Het here quotes <hi>p.</hi> 25. that <hi>a part ſhould not be preferred before the whole.</hi> Whence he opens againſt the Schiſm, and would have <hi>Diſſenters by ſtrict diſcipline, taught the Duty of Self-denial.</hi> But what is this to the Doctors deſign or our buſineſs?</p>
+               <p>His deſign there is to ſhew, that there are a weak ſort of Diſſenters, in reference to whom the Church ought to make ſuch proviſion, that <hi>ſhe may keep thoſe members ſhe hath, and reduce thoſe ſhe wants;</hi>— that however, nothing <hi>ought to be omitted for the ſake of theſe, that may be profitable to the whole Church; nor admitted, that may be detrimental to it.</hi> Becauſe <hi>a part ought not to be preferred before the whole.</hi> Where the Pamphlet, out of either ignorace or deſign, takes that abſolutely, which is ſpoke only <hi>Secundum quid;</hi> quoting the Doctor againſt all Alterations, when he firſt allows ſome, and then is againſt none but ſuch that may be of publick miſchief.</p>
+               <p>And what is this to our buſineſs, who are not to give Laws and inflict Penalties on Diſſenters, but are only to
+<pb n="13" facs="tcp:41920:9"/>conſider what prudent Alterations may poſſibly win them, and give the Church ſafety, but not danger?</p>
+               <p>The Sermon, <hi>p.</hi> 26. ſaith, that Alterations ſhould not be made without a cogent <hi>neceſſity,</hi> and <hi>p.</hi> 27. <hi>utrum autem eccleſia noſtra— but whether our Church be conſtrained by ſuch a neceſ<g ref="char:EOLhyphen"/>ſity, is not my part to determine;</hi> where the Doctor is not a<g ref="char:EOLhyphen"/>gainſt Alterations, as the Pamphlet vainly inſinuates, but modeſtly refuſes directly to anticipate the buſineſs of a Con<g ref="char:EOLhyphen"/>vocation, which our Pamphleter hath face enough to do. But that he may give us a ſufficent proof, not of his imper<g ref="char:EOLhyphen"/>tinency only, but of his want either of Judgment or Ho<g ref="char:EOLhyphen"/>neſty too, he proceeds with the Doctors Sermon, till he doth ſufficiently lead the Reader to the concluſion of ſuch a neceſſity, which the Pamphlet it ſelf requires, viz. <hi>This only I dare to affirm, that if it be neceſſary to reduce wandring Sheep into Chriſts Flock; if to take off Scruples from the minds of weak Brethren; if to allay hatred, appeaſe and (as much as may be) to ſuppreſs all Diſſentions concerning Religion— if theſe things</hi> (ſaith he) <hi>ſeem neceſſary to any man; it will alſo ſeem neceſſary to that man to admit ſuch changes, as he is perſwaded will con<g ref="char:EOLhyphen"/>duce to ſuch ends</hi>— where the Doctor ſo fairly leads his Reader to the circumſtances of our Church, and the deſigns of calling this Synod; that he leaves him neceſſarily to con<g ref="char:EOLhyphen"/>clude that neceſſity, which himſelf would not expreſs. This ſhews both his candour and his Rhetorick; ſince in a point ſo nice and yet ſo important too; here is a <hi>Mioſis</hi> more in<g ref="char:EOLhyphen"/>tended, than he thought convenient to ſpeak.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>P.</hi> 9. Tells us from the Doctor ſtill, that even <hi>incommodious Laws, ought not to be changed without ſome urgent neceſſity.</hi> We readily grant it; but the only queſtion between us, <hi>viz.</hi> whether our Church hath at this time ſuch a neceſſity or not, is as much undetermined, as if he had never made any of theſe Quotations; whence I cannot ſee what ſervice he hath done himſelf, unleſs to ſhew the World, that he is able to Tranſlate a piece of a Latin Sermon.</p>
+               <pb n="14" facs="tcp:41920:10"/>
+               <p>His next Paragraph tells us of an apt alluſion of this Learned Doctors, but I am ſure it is no way apt for his purpoſe; for the Doctor there ſhews, <q>That both the uni<g ref="char:EOLhyphen"/>verſal and particular Churches, have power by their Sy<g ref="char:EOLhyphen"/>nods to make Laws, as they ſhall judge expedient for the better Adminiſtration of the publick Worſhip of God</q>—But wherein this can ſerve him who is againſt all Alterati<g ref="char:EOLhyphen"/>ons, I can by no means ſee. And in truth, were all the parts of his Pamphlet like this, which troubles the Doctors Sermon, and the World to no purpoſe, I muſt have ſpoken him a weak Brother, not fit to be received to doubtful Diſputations.</p>
+               <p>Without peradventure the deſign of all this pudder is to perſwade the World, that the Doctor is like himſelf, <hi>viz.</hi> Learned to no purpoſe, <hi>(i. e.)</hi> hath Preached and Print<g ref="char:EOLhyphen"/>ed a Sermon, that is not to the Point; only becauſe it is more modeſt than the Pamphlet, which preſumes to give peremptory injunctions to the Convocation it ſelf; againſt whom we have the judgment as of other learned and un<g ref="char:EOLhyphen"/>prejudiced men, ſo of the Biſhops themſelves, who judge it ſo ſuitable, that by their Commands we have a Second Impreſſion.</p>
+               <p>Had he followed our Doctors advice, <hi>p.</hi> 30. <hi>Nulla prae<g ref="char:EOLhyphen"/>judicata opinio, nulla praeſumpta ſuſpicio, nulla litium cupido, huc afferatur: Let no prepoſeſſions, no preſumed ſuſpicions, no deſire of contentions approach this Synod;</hi> neither this Pam<g ref="char:EOLhyphen"/>phlet nor its Author would find any place there.</p>
+            </div>
+            <div type="part">
+               <p>In <hi>p.</hi> 10. he ſtarts this Objection, viz. <hi>Our Diviſions had almoſt betrayed us to Popery and Slavery; for prevention of which danger for the future, it is adviſable (as much as may be) to enlarge the terms of our Communion.</hi>
+               </p>
+               <p>An Objection well put, but not ſo well Anſwer'd; for he ſays, <hi>Who betray'd us to thoſe Diviſions? Were they not ſuch as cauſleſly ſeparated from us, and joyn'd with the common
+<pb n="15" facs="tcp:41920:10"/>Enemy, rather than with the Church of England?</hi> This we would prove as otherwiſe, ſo from their addreſſes to the late King; which promiſed to ſtand <hi>by him with their lives and fortunes, and to obey him without reſerve.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Whatever ſome might do, yet it is well known, that many leading and prudent Men (eſpecially amongſt their Laity) ſtood off, and were ſo far from ſerving the Cauſe, that they dreaded the conſequence; and did judge the Impriſonment of the Biſhops the common danger of the whole Proteſtant intereſt; not was the Church ever better eſteem'd by the main body of Diſſenters, than when under thoſe Tryals.—And indeed the advantages that Popery reaps from our Diviſions, ariſe not ſo much from the deſign of Dividers, as from the nature and ne<g ref="char:EOLhyphen"/>ceſſary conſequences of Diviſion it ſelf.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> How well thoſe that did Addreſs perform'd their Promiſes, let the World judge.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Suppoſe what he aſſerts; yet the very Allegation ſpeaks the neceſſity of Alterations, that hereby we may leſſen the number of thoſe, who elſe may endanger us again. Our Circumſtances are not yet ſo Altered, but that their Uniting againſt the Church of <hi>England,</hi> may expoſe us to thoſe dangers now, as much as it did then; and therefore there is at this time as well a neceſſity of performing the Biſhops Promiſe, as there was then of making it; but we acquieſc'd in that, and conſequently we ought in this.</p>
+               <p>Our Saviour ſays, <hi>That a Kingdom divided cannot stand;</hi> yet our Pamphlet would continue our Diviſion in order [forſooth] to our preſervation. And certainly if ever there was a time that ſpeaks this Truth; if ever a time that requires our Union in order to a common Preſer<g ref="char:EOLhyphen"/>vation; if ever a time that calls for mutual Condeſcen<g ref="char:EOLhyphen"/>tions, which is the only way to this Union, it is this.
+<pb n="16" facs="tcp:41920:11"/>In truth, was the Author a profeſs'd enemy to our Church and Eſtabliſhed Religion, I ſhould believe there is more of judgment and ſincerity in his Anſwer to this Objection, than I can yet diſcern in it; for his Argument lies thus: <hi>viz.</hi> Diſſenters by their Diviſion have already en<g ref="char:EOLhyphen"/>dangered us; <hi>Ergo,</hi> we ſhould leave them Diſſenters ſtill, that they may endanger us again; as if he wiſely deſign'd to puniſh their Obſtinacy by our own Ruin.</p>
+            </div>
+            <div type="part">
+               <p>But he proceeds, if <hi>ſome leading Presbyterians are by our Alterations let into the Church, and be made Biſhops, Deans, Arch-Deacons,</hi> &amp;c. <hi>what ſecurity have we that they will not pro<g ref="char:EOLhyphen"/>mote Diviſions in the Church?</hi>— This was the reaſon, ſays <hi>p.</hi> 11. that the <hi>Clergy</hi> oppoſed a Bill for Comprehenſion, contriv'd by Biſhop Wilkins; and for which, and other Reaſons, the Houſe of Commons caſt it out.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> He ſuppoſes what he can never prove, <hi>viz.</hi> That ſuch Comprehenſions would have made a Diviſion in the Church; therefore this being a mere ſurmiſe, muſt not be allow'd the repute of an Argument.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Security he demands, would have been their Pre<g ref="char:EOLhyphen"/>ferments, which would have made it their intereſt to ſupport, as much as they now think it their intereſt to pull us down; and likewiſe their Oaths and Penalty of the Laws, which would chaſtiſe every Deviation from their Rule.</p>
+            </div>
+            <div type="part">
+               <p>But however, to give ſtrength and colour this ſuſ<g ref="char:EOLhyphen"/>pition, he ſays, <hi>p.</hi> 10. <hi>That ſome Biſhops and others, pre<g ref="char:EOLhyphen"/>ferred under King</hi> Charles <hi>the Second, did attempt this.</hi>
+               </p>
+               <p>To which we Anſwer;</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> What he calls Diviſion, was only a Comprehenſion deſign'd by thoſe, whoſe Judgment as well as Moderation, we have lately had juſt cauſe to admire. Such a Divi<g ref="char:EOLhyphen"/>ſion we have in the Church at preſent, and ever ſhall
+<pb n="17" facs="tcp:41920:11"/>have, ſo long as there be moderate and judicious men in it; and had that Comprehenſion been eſtabliſhed, it would have prov'd our ſecurity at this very day.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Call it a Diviſion, yet they did only attempt, but could not effect it; and indeed it is ſo hard to ſway a Conſtitution, that not only the Nature of the thing, but this Fruitleſs undertaking too, may juſtly allay his fears of admitting a few moderate Men into the Church by ſome reaſonable Alterations.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> In <hi>p.</hi> 3, 4. he paſſionately pleads againſt all Alterati<g ref="char:EOLhyphen"/>ons, from the unlikelyhood of gaining one Diſſenter, who are ſo ſtubborn and unreaſonable in the terms they propoſe for an Accommodation; and yet here he is a<g ref="char:EOLhyphen"/>fraid of ſuch a number coming in, as ſhall divide and ruin the whole Church; which ſpeaks the Author to pur<g ref="char:EOLhyphen"/>ſue an Hypotheſis, but not the Truth; and reſolv'd by all manner of Pleas agreeing and diſagreeing, probable and improbable, true and falſe, or by any thing elſe you can imagine, to confound and obſtruct intended Condeſcenſions.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> It ſeems very marvellous, that theſe very ſurmiſes ſet on foot by Popiſh Polititians, purpoſely to hinder our Union at the reſtoring our Liturgy, and the later project of Comprehenſion, ſhould not only be received by ſome hot men then, but be pleaded at this time of the day; when we have ſeen the diſmal effects of theſe Policies which have uſed the Church againſt Diſſenters, and then Diſſenters againſt the Church, in order to the ruin of the whole Proteſtant intereſt, and which at this day do give the greateſt advantage to French and Popiſh deſigns throughout the World. This ſeems to bode us no good, and looks like a fate upon Men, which makes them not their own Murderers only, but the common Executioners of Proteſtants and their Religion.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:41920:12"/>
+               <p>But in the ſame Page he pleads againſt Alterations from another Topick, viz, <hi>reaſonable Condeſcentions to one party is likely to encourage unreaſonable Sollicitations from another.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> This produced no ſuch effect formerly, Why then ſhould it now? This is the way to prevent what he pretends to fear; for men are now in expectation, and delays may make them clamorous; but a preſent ſettlement puts a ſtop to all future expectations. But if otherwiſe, yet</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Such Alterations ſtrengthning the Church will ren<g ref="char:EOLhyphen"/>der it more ſafe for her to reject unreaſonable Sollici<g ref="char:EOLhyphen"/>tations hereafter, than to fruſtrate reaſonable expectations at the preſent: But he adds,</p>
+            </div>
+            <div type="part">
+               <p>Our, frequent changes in ſome things, may make men queſtion all, and at laſt center in the Church of <hi>Rome.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> Have any, or all former Changes conſidered together, done ſo? If they have, produce your inſtances; if they have not, Why ſhould one Alteration more do it, eſpecially conſidering, it is well known that our Church has always allow'd ſuch Changes?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Was this probable the Popiſh party would be wel-willers to Alterations; whereas they and their confidents are raiſed in their expectations, from the difficulties that attend this Affair? The matter of Fact is undeniable, there<g ref="char:EOLhyphen"/>fore they or himſelf muſt be in an Error: And if we con<g ref="char:EOLhyphen"/>ſider his undertaking and performances, we ſhall eaſily be<g ref="char:EOLhyphen"/>lieve that he is not Infallible.</p>
+            </div>
+            <div type="part">
+               <p>Thus you have his Feats; whence in the next Paragraph he Triumphs, reckoning he has knock'd down his Ene<g ref="char:EOLhyphen"/>mies with this Pamphlet, as <hi>Sampſon</hi> did the <hi>Philistines,</hi> with the Jaw-bone of an Aſs. For thus he proceeds;</p>
+               <pb n="19" facs="tcp:41920:12"/>
+               <p>
+                  <hi>And now let the men that are given to change, produce thoſe weighty and important reaſons required, in the Preface to the Common-Prayer; or that great neceſſity which Dr.</hi> Beveridge <hi>requires for the Alteration, even of commodious Laws.</hi>
+               </p>
+               <p>A bold Challenge indeed! however I ſhall accept it; And will ſhew theſe important Reaſons and great Neceſſity of preſent Alterations from,
+<list>
+                     <item>1. The Sacred Scriptures.</item>
+                     <item>2. Our Circumſtances.</item>
+                     <item>3. The general Senſe of the Nation.</item>
+                     <item>4. The Duty of doing all we can for the keeping and ſe<g ref="char:EOLhyphen"/>curing our Flocks. And,</item>
+                     <item>5. Some things themſelves impoſed.</item>
+                  </list>
+               </p>
+               <p n="1">1. The Sacred Scriptures do determine this controverſie againſt our Pamphlet; for St. <hi>Paul</hi> forbids us to offend a weak Brother, in uſing our power in things indifferent. This indeed does not affect us as we are now under the Law, but it doth affect the Church, when the civil Autho<g ref="char:EOLhyphen"/>rity calls her to Explain, Alter, and Omit thoſe things that do offend. But you will ſay, that the Church hath power in all matters indifferent, whence reſults the Duty of the Peoples Submiſſion in all ſuch matters: It is true, but if the People cannot ſee the Lawfulneſs of ſuch Sub<g ref="char:EOLhyphen"/>miſſion, the Church ought not to preſs them any further, than a due regard to the Souls of Men will allow, or the general Intereſt of Religion, and the common ſafety of the Church doth require, 1 <hi>Corinth.</hi> 10.3. We muſt not do all things that are Lawful, but what things are <hi>expedient</hi> and <hi>edifying;</hi> upon which Scripture <hi>Clem. Alex.</hi> Paedag. b. 2. c. 1. hath this Note, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Thoſe who will do all that is Lawful,
+<pb n="20" facs="tcp:41920:13"/>quickly fall into that which is <g ref="char:V">Ʋ</g>nlawful;</hi> and I am ſure it is no Paradox, that if the Church will do all ſhe may, ſhe certainly doth more than ſhe ought, becauſe her power muſt be tempered by a tender and prudential regard to the weakneſs of all her Members. St. <hi>Paul,</hi> 2 <hi>Cor.</hi> 10.8. ſpeaks of a power that God hath given <hi>for edification,</hi> not <hi>for deſtruction;</hi> therefore that Church doth abuſe her power, which by too ſtrict terms of Communion doth not gather and build up, but ſcatter the Flock. Indeed at our laſt ſettlement the evils we have ſuffered, were not ſufficiently foreſeen; but ſince ſad experience hath given us ſuch terri<g ref="char:EOLhyphen"/>ble admonitions, the Church ſeems utterly inexcuſable, if ſhe refuſe (to the beſt of her skill and power) to apply a ſuitable remedy.</p>
+               <p n="2">2. That a Kingdom divided cannot ſtand, is a Truth ſo certain, and allowed by all obſerving Men, that our Saviour brought this as a Medium to prove, that a Diviſion will ruine even Satan himſelf; and what our Diviſions have done this way by obſtructing all publick undertakings, and expoſing us to hazards both at home and abroad, I leave the World to judge; nor can we think of any other expedient to ſecure us, but Union; nor is there any way to Union, but mutual condeſcenſions; nor muſt we expect (as long experience hath taught us) that if we ſtiffly ſtand our ground, others will move, unleſs perhaps to confound and ruin us; therefore if it be neceſſary to put life into the affairs of Church and State; if neceſſary to ſecure to our ſelves Peace and Proſpetity, it is then neceſſary to make thoſe Condeſcenſions, which ſeem now the only means to that end.</p>
+               <p n="3">3. This is evident from the general ſenſe of all Parties in the Nation, who look upon Alterations as the only Me<g ref="char:EOLhyphen"/>thods of Union, which may be proved by an induction of particulars. Thoſe who are for Union and Settlement, are for Alterations, others are againſt them. Moderate Presbyterians, and the Unſetled multitude, expect Alte<g ref="char:EOLhyphen"/>rations,
+<pb n="21" facs="tcp:41920:13"/>as incouraging motives to the Church: Rigid Diſſenters, who reſolve at any rate to maintain their Schiſm, diligently endeavour (as we hear from <hi>Eſſex</hi> and the <hi>Weſt</hi>) by all imaginable Methods to ſecure their People from a compliance, what Alterations ſoever the Church may make; which abundantly ſatisfies us, that they fear Alterations will endanger their Parties. Inferiour Sects, whoſe Principles are inconſiſtent with Government, are againſt theſe things, leſt hereby the Church ſhould become ſtrong enough to quaſh them at her pleaſure. While the Papiſts abhor theſe Methods, as knowing they will obſtruct all their deſigns, and ſuffer them no longer to uſe Prote<g ref="char:EOLhyphen"/>ſtants as Tools in the ruining one another. Now after all this, what is the true reaſon, that this Gentleman, with thoſe in his Neighbourhood, and others under the ſame prejudices, ſhould oppoſe theſe undertakings? If becauſe they fear that Diſſenters will not be gained, or the Church be ruined by it; we have the Senſe of the whole Nation, both Friends and Enemies againſt them; but if for other Reaſons, let them look to it, who muſt ſeverely anſwer for their obſtructing the moſt probable Methods of Peace and Unity. Therefore if Peace and Unity, and the common Intereſt both of Church and State, be of any neceſſity and importance with us; then in the judgment of the Nation, Alterations muſt be of ſome neceſſity and importance too, becauſe they judge theſe the moſt condu<g ref="char:EOLhyphen"/>cive to thoſe ends.</p>
+               <p n="4">4. We argue from the indiſpenſible Duty of doing all we may to ſecure our Flocks in the ways of Truth and Peace, which lies ſo hard upon us, that their Blood will be required at the hands of thoſe Shepherds, who ſuffer them to periſh out of negligence, humor, or any other means whatſoever: And certainly few can be ſo much ſtrangers at home, as not to obſerve, that they daily loſe ſome and find others unſetling, and perceive thoſe growing incroachments upon our ſeveral changes, which will quickly haſten things to a confuſion; and that eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="22" facs="tcp:41920:14"/>ſince the preſent ſtiffneſs againſt Alteration. And tho' I do not Damn thoſe that leave us, yet Schiſm is very dangerous; and unſetling turns many to looſneſs and ir<g ref="char:EOLhyphen"/>religion, and occaſions ſome to fix in Opinions that are in themſelves Damnable; which ought to be well conſidered by them who have read Jer. 23.1. <hi>Wo to the Paſtors that de<g ref="char:EOLhyphen"/>ſtroy and ſcatter the Sheep of my Paſture, ſaith the Lord.</hi> I know that Separation is but an accidental conſequence, proceeding not from the Nature of our Conſtitution, but from the Weakneſs and Prejudices of Men; yet when ex<g ref="char:EOLhyphen"/>perience doth teach us ſuch an accidental evil, and the Church is called to provide (ſo far as may be) a ſuitable remedy, I muſt place thoſe that oppoſe this deſign amongſt ſuch Shepherds, that deſtroy and ſcatter the Sheep; for by ſuch refuſal they make the cauſe of Separation to be not only the others weakneſs, but their own wilfulneſs too; in that, as the one will not underſtand, ſo the other will not remove (ſo far as they may) the occaſion of error.</p>
+               <p>Therefore as Dr. <hi>Beveridge</hi> ſaith, <hi>if it be neceſſary to re<g ref="char:EOLhyphen"/>duce wandring Sheep into Chriſts flock; if neceſſary to take off ſcruples from the minds of weak Brethren;— if neceſſary to ſup<g ref="char:EOLhyphen"/>preſs all diſſentions concerning Religion</hi>— if neceſſary to keep thoſe we have, and to give up our accounts with joy at the laſt day; it muſt be <hi>neceſſary to admit ſuch changes, as are conducive to ſuch ends.</hi>
+               </p>
+               <p n="5">5. We argue from things impoſed. As</p>
+               <div n="1" type="section">
+                  <p>1. Apocryphal Leſſons, which ought in reaſon and pru<g ref="char:EOLhyphen"/>dence to be changed for Canonical Scriptures; becauſe theſe containing ſome things unſeemly, ſome improbable, and others evidently falſe, do ſcandalize not only them without the Church, but many of thoſe who are fre<g ref="char:EOLhyphen"/>quenters of our daily Prayers.</p>
+                  <p>His Anſwer to a Letter from a Miniſter in the Country brings ſeveral Pleas from others againſt Alterations in
+<pb n="23" facs="tcp:41920:14"/>this particular, <hi>p.</hi> 25. theſe are read <hi>not to confirm our Faith, but to reform our manners;</hi> this may be better ap<g ref="char:EOLhyphen"/>plied to <hi>Eccleſiaſticus,</hi> and the <hi>Book of Wiſdom,</hi> than to <hi>Tobit, Judith,</hi> and <hi>Bell and the Dragon,</hi> which looking like Legends and Romances, ſeem very unapt this way. But however why ſhould not they that offend, and reſpect Manners only, give place to thoſe Scriptures that do not offend, and reſpect both Faith and Manners too, unleſs men fear that they ſhould do too much good at once? He pleads the ancient uſe of them from <hi>Cypr. in Symb.</hi> which is it ſelf an Apocryphal Book, and not ſo old as the pretended Author by about One hundred and fifty years, and is aſcribed by ſome to St. <hi>Hierom,</hi> by others to <hi>Ruffinus;</hi> but however, we are to enquire not what is oldeſt, but what is moſt edifying; indeed they might anciently be of good uſe, but not now, ſince ſqueamiſh and critical times are ſo much prejudiced a<g ref="char:EOLhyphen"/>gainſt them; whence according to the Preface to the Common Prayer, it is but reaſonable they ſhould be changed according to the preſent exigence.</p>
+                  <p>Omitting other things, 26. pleads for em from the Diſſenters, who have declared, that they are not againſt Apocryphal Chapters, being read in the Church, but a<g ref="char:EOLhyphen"/>gainſt their being read as Leſſons; but our Liturgy doth order them as Leſſons, therefore this Quotation ſhews, that they require an Alteration, if not of the Chapters, yet of the manner of reading 'em. Where our Pamphleter ſhews himſelf ſuch a Maſter of Defence, that inſtead of hitting of his Enemy, he either beats the Air, or wounds himſelf with his own Weapon.</p>
+                  <p>Some Nonconformiſts give this as a great Reaſon of their Diſſent, that they cannot be ſatisfied, but that the <hi>Aſſent</hi> and <hi>Conſent</hi> required by the Act of Unifor<g ref="char:EOLhyphen"/>mity, doth reach not only the Uſe but the Truth of theſe Books. Many of our own Church are offended, ſome perſons unſetled, and others fixed in their Sepa<g ref="char:EOLhyphen"/>ration
+<pb n="24" facs="tcp:41920:15"/>by reaſon of theſe Leſſons. He pleads, <hi>p.</hi> 27. that ſome Sermons have done more miſchief than <hi>Bell and the Dragon, with Tobit and his Dog;</hi> ſuppoſe that, yet why ſhould theſe do any, unleſs we think it a ſufficient diſcharge of our Duties only to do leſs evil than others? I muſt think theſe and all other Pleas this way, highly unreaſonable, unleſs they can prove, that there is worth and weight enough in theſe Books, beyond what there is in Canonical Scripture, to compenſate all theſe miſchiefs, which the Church continually ſuffers upon their accounts, as well as otherwiſe; which (I preſume) the Pamphleter himſelf will hardly under<g ref="char:EOLhyphen"/>take.</p>
+               </div>
+               <div n="2" type="section">
+                  <p>2. There are ſome paſſages in our Liturgy that may be ſo Altered, as to take away many Objections, which weakneſs hath raiſed and malice improved to a mighty height; I need not mention them, becauſe the Letter from a Miniſter in the Country, hath already done it; in Anſwer to which, our Pamphleter, <hi>p.</hi> 38. by certain explications ſhews, that they are capable of a very fair conſtruction; but who denies this? The Preface to the Common Prayer doth affirm, and our Conformity doth ſpeak it; but the Queſtion is, Whether it is not expe<g ref="char:EOLhyphen"/>dient ſo to expreſs them, that Weakneſs may not ſtum<g ref="char:EOLhyphen"/>ble nor Malice cavil at 'em? Our Pamphlet it ſelf (to clear them from objections) doth explain them; a good argument, that they are not (as he pretends, <hi>p.</hi> 41.) <hi>ſelf-evident,</hi> but that they want an explication; that is indeed an Alteration. And if the Pamphlet may explain them, Why may not the Convocation? Unleſs our Pamphleter be ſo vain as to think his explication muſt go along with the Liturgy, that they may ſee the one who are offended at the other. I muſt declare it an extream dotage upon Forms and modes of Speech, which inclines men to keep in things with ſo much difficulty and damage, that may be ſo eaſily and advantagiouſly part<g ref="char:EOLhyphen"/>ed from.</p>
+                  <pb n="25" facs="tcp:41920:15"/>
+                  <p>It is not for me to inſtance in all things that may be to very good purpoſe Altered; this is the buſineſs of a Convocation, and is made (in ſome part) the Pro<g ref="char:EOLhyphen"/>vince of the Miniſter in the Country, who (I doubt not) will ſupport his Letter againſt the Attacks of this Pamphlet; yet however I ſhall add ſome few things not yet in Controverſie, which ſeem of moment enough to become the care of a Convocation; and they are one Rubrick, and one of our Creeds.</p>
+                  <p>The Rubrick is that after the ſecond Hymn in the Morning-Service, and runs thus, <hi>Then ſhall be ſung or ſaid the Apostles Creed— excepting only ſuch days as the Creed of St.</hi> Athanaſius <hi>is appointed.</hi> Where I ſhall prove that it is not a meer notion, but of a mighty concern to Alter it thus, <hi>viz. The Creed commonly called the Apo<g ref="char:EOLhyphen"/>ſtles;</hi> and ſo of the other.</p>
+                  <div type="subsection">
+                     <p>As to the former, I grant there was ſome Creed very early in the Church, as appears from <hi>Iren. l.</hi> 1. <hi>c.</hi> 2. and <hi>c.</hi> 19. where it is called <hi>REG<g ref="char:V">Ʋ</g>LA VERITA<g ref="char:EOLhyphen"/>TIS;</hi> and from <hi>Tertull. de Virgin. Veland. c.</hi> 1. where it is <hi>REG<g ref="char:V">Ʋ</g>LA FIDEI,</hi> which <hi>Novatian. de Trin.</hi> explains by <hi>Symbolum;</hi> and again, <hi>de Praeſcript. Haer. c.</hi> 13.14. and from the Conſtitutions aſcribed to <hi>Clem. l.</hi> 7. <hi>c.</hi> 42. But I deny that any of theſe were that we call the Apoſtles. Becauſe</p>
+                     <list>
+                        <item>1. Theſe Creeds differ one from another, as being not the ſame, but divers; nor do any one of them agree with this, unleſs in ſome main Articles of Faith, as all Confeſſions muſt do; which ſpeaks them only to be Creeds, but not the ſame.</item>
+                        <item>2. <hi>Tertull. ad Prax. c.</hi> 2. Speaking of the Miſſion of the Holy Ghoſt, ſaith, <hi>Hanc regulam ab initio Evangelii decucurriſſe</hi>— which Rule muſt be underſtood either of the Sacred Scriptures, or of ſome common Creed;
+<pb n="26" facs="tcp:41920:16"/>if the Latter, it muſt be another, not this called the Apoſtles, becauſe this ſpeaks of no ſuch Miſſion at all.</item>
+                     </list>
+                     <p>As we cannot yet meet with this Creed, ſo it is highly unreaſonable to ſuppoſe, that the Apoſtles ever compoſed any ſuch thing: Becauſe,</p>
+                     <p n="1">1. It is not mentioned in the Hiſtory of the Acts, which yet gives an account of a Council Convened, and Ca<g ref="char:EOLhyphen"/>nons made about things indifferent; and therefore cer<g ref="char:EOLhyphen"/>tainly would not have omitted a Rule of Faith. <hi>Ba<g ref="char:EOLhyphen"/>ronius</hi> boldly ſaith, It was made before the Diſperſion from <hi>Jeruſalem;</hi> but it is unworthy ſo great a Man to fix the circumſtance of Time, but not prove the thing it ſelf.</p>
+                     <p n="2">2. Had this always paſſed for the Apoſtles, ſince it doth not intimate the Divinity of the Son, nor of the Holy Ghoſt, it is not to be ſuppoſed, but that
+<list>
+                           <item>1. <hi>Simon M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>gus, Cleobius, Menander, Cerinthus, &amp;c,</hi> who denied Chriſts Divinity, would have pleaded, that this Doctrin of theirs was no way contrary to the Apoſtolical Faith.</item>
+                           <item>2. The <hi>Arians.</hi> And</item>
+                           <item>3. The <hi>Macodonians,</hi> who deny the Divinity of the Holy Ghoſt, would have done the like.</item>
+                        </list>
+                     </p>
+                     <p>But we find no ſuch Plea from thoſe Firſt Hereticks; nor from the <hi>Arians,</hi> either before, at the <hi>Nicene</hi> Coun<g ref="char:EOLhyphen"/>cil, or in their Synods under <hi>Constantius;</hi> nor from the <hi>Macedonians,</hi> either Separately, or Convened under the ſame Emperor: <hi>Ergo,</hi> we muſt conclude there was no ſuch thing at all; for cany any in their Wits imagin, that they who rejected, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, and <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, becauſe theſe terms are not in the Scriptures,
+<pb n="27" facs="tcp:41920:16"/>would not have rejected them alſo, becauſe not found in that Rule of Faith delivered by the Apoſtles, if any ſuch had been? Can any imagine, that they would not have endeavoured to have kept this as a ſtanding Rule of Faith, excluſive of any that might deſtroy thoſe darling notions, which this leaves undiſturbed? Can any think that when the Fathers under <hi>Conſtan<g ref="char:EOLhyphen"/>tius</hi> pleaded, that they could not Alter the Creed of <hi>Nice,</hi> that the <hi>Arians</hi> would not have replied, nei<g ref="char:EOLhyphen"/>ther can you add to that of the Apoſtles?</p>
+                     <p n="3">3. St. <hi>Hilary Pict. Epiſc. lib. de Synod.</hi> gives us thoſe Confeſſions of Faith, he had then, <hi>viz.</hi> about the mid<g ref="char:EOLhyphen"/>dle of the Fourth Century met with, but never men<g ref="char:EOLhyphen"/>tions this.</p>
+                     <p n="4">4. We never meet with it, either Name or Thing, till <hi>Ruffinus</hi> and St. <hi>Auguſt.</hi> both within the Fifth Cen<g ref="char:EOLhyphen"/>tury. Nay</p>
+                     <p n="5">5. <hi>Arius</hi> himſelf in <hi>Epiphan. Adv. Haer. l.</hi> 2. <hi>Tom.</hi> 2. <hi>Haer.</hi> 69. <hi>Num.</hi> 7. juſtifies his Doctrin, in that it was not contradictory to that Creed there laid down, which he had received from his Anceſtors, and from <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> Biſhop of <hi>Alexandria;</hi> and can we think he would not much rather have pleaded, that his Doctrin was not contradictory to the Apoſtolick Creed, had they then known or believed any ſuch thing? Which things together are to me as cogent as a demonſtration, that the World then knew no Creed under the Apoſtles Name.</p>
+                     <p>It was indeed after ſome Ages aſcribed to the Apoſtles, as many things were, whoſe Authors and Origin were not known; and likewiſe becauſe what it doth contain is agreeable to the Apoſtles Doctrin; ſo <hi>Epiphan. Tom.</hi> 2. <hi>Ancorat. Num.</hi> 120. ſaith of the <hi>Nicene</hi> Creed, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.
+<pb n="28" facs="tcp:41920:17"/>this Faith was delivered us by the holy Apoſtles, and was confirmed by above Three hundred and ten Biſhops.</p>
+                     <p>Now this Rubrick gives a mighty advantage to the <hi>Socinians,</hi> who plead, that as our Church aſcribes this Creed to the Apoſtles, ſo it ſuits none but the <hi>
+                           <g ref="char:V">Ʋ</g>nita<g ref="char:EOLhyphen"/>rian Doctrin,</hi> as aſſerting the Divinity of the Father only; and many of our own Writers affirm, that it contains all the <hi>Credenda</hi> neceſſary to Salvation, as the Decalogue doth the <hi>Agenda:</hi> Whence it follows, either
+<list>
+                           <item>1. That the Doctrin of Chriſts Divinity was not known in the Apoſtles time: Or,</item>
+                           <item>2. That the Apoſtles have given us an imperfect Rule of Faith: Or,</item>
+                           <item>3. That the Belief of this Doctrin is not neceſſary to Salvation.</item>
+                        </list>
+                     </p>
+                     <p>Whence we muſt either deny this Creed to be theirs, and thereby ſet up our private light in oppoſition to the Church, and thence fall under that laſh which we have laid upon Diſſenters; or grant, that this Apoſtoli<g ref="char:EOLhyphen"/>cal Rule is wanting in ſome things neceſſary to Salva<g ref="char:EOLhyphen"/>tion; or elſe yield, that this Doctrin (if true) is yet of no ſuch moment. All which abſurdities will be a<g ref="char:EOLhyphen"/>voided only by intituling it the Creed, <hi>Commonly called the Apostles.</hi>
+                     </p>
+                     <p>Moreover, it is the obſervation of the Learned Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Worceſter</hi> in his <hi>Iren.</hi> that <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> is ſuch a Tradition as came certainly from ſome Apoſtle; but <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> is only ſome antient Traditi<g ref="char:EOLhyphen"/>on, that came from ſome Apoſtle or Apoſtolick Man. And what is true of <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> may be as true of <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, and yet in our Copies it is <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. So in Dr. <hi>Duports</hi> Verſion, and in our Rubrick it is the
+<pb n="29" facs="tcp:41920:17"/>
+                        <hi>Apoſtles,</hi> not the <hi>Apoſtolick Creed.</hi> Which Obſervation ſpeaks this Alteration the more neceſſary, becauſe here<g ref="char:EOLhyphen"/>by we ſeem to ſpeak it not an antient Creed collected out of the Apoſtles Writings, but a Creed compoſed by the Apoſtles themſelves.</p>
+                     <p>Therefore if the honor and judgment of our Church, if the checking a growing Hereſie, which hath lately gained ground by this very Plea, is worth the care of a Convocation, then it muſt be worth their care to make this Alteration, becauſe this one particular doth wound the Church, and advance an Hereſie at once.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>2. The Creed of St. <hi>Athanaſius.</hi>
+                     </head>
+                     <p>This is indeed amongſt his works; but our Dr. <hi>Cave,</hi> who is ſo curiouſly skilled in theſe monuments of anti<g ref="char:EOLhyphen"/>ent Learning, ſpeaks it ſuppoſititious. <hi>Du Pin</hi> ſaith, that ſome aſcribe it to one, ſome to another, but <hi>Tout le monde convient qu'il n'eſt point de ce Pere;</hi> all Mankind agree, that it is none of that Fathers. St. <hi>Hilary</hi> be<g ref="char:EOLhyphen"/>fore quoted, who was the great Champion againſt <hi>Ari<g ref="char:EOLhyphen"/>aniſm</hi> in the Latin Church, as <hi>Athanaſius</hi> was in the Greek, tho' he gives us other Creeds touching this Controverſie, yet never mentions this, nor do we any where find it for a long time after <hi>Athanaſius.</hi>
+                     </p>
+                     <p>Indeed, <hi>Bellar. de Script. Eccleſ.</hi> ſaith, that St. <hi>Auguſt. Tract.</hi> in <hi>Pſal.</hi> 120. hath theſe words, viz. <hi>Filius Dei a Patre ſolo eſt, non factus, nec creatuſ, ſed genitus.</hi> Whence he concludes, that St. <hi>Auguſtin</hi> muſt have ſeen this Creed; and <hi>Labbey</hi> is pleaſed very much to follow him. But theſe words are not to be found together in St. <hi>Auguſtin,</hi> and thoſe parts he hath are no more than what we find in the genuine works of <hi>Athanaſius,</hi> as in his Epiſtles <hi>ad Serap.</hi> from whence St. <hi>Augustin</hi> might have what we find in him, as well as out of this Creed, had it been then in being, <hi>Ergo:</hi> there is no weight or proof
+<pb n="30" facs="tcp:41920:18"/>in what <hi>Bellarmine</hi> and <hi>Labbey</hi> ſay upon this Argu<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>
+                        <hi>Voſſius</hi> ſaith, It did not appear in the World till about the Year One thouſand, above Three hundred Years after the Death of <hi>Athanaſius,</hi> and yet was then reckoned the work of an uncertain Author. But <hi>Ba<g ref="char:EOLhyphen"/>ronius</hi> hath a trick for this, indeavouring to perſwade that it was a long time loſt. But when ſuch things have happened, we find the names of thoſe Tracts or Fragments of 'em in antient Authors, before they were loſt; as in <hi>Clemens Rom. Iren. Epiſt. &amp;c.</hi> whence the World have known there were ſuch things Wrote, tho' they, could not find 'em; but we never meet with the name, or any certain Fragments of this Creed in that Age or the next to it, in which <hi>Athanaſius</hi> did live; therefore what <hi>Baronius</hi> ſaith in this Caſe is but a groundleſs preſumption, and (like that of <hi>Bellarmine</hi> and <hi>Labbey</hi> but now mentioned) proves nothing, unleſs that it is eaſie to confute a Jeſuit.</p>
+                     <p>And certainly by this time it appears highly reaſon<g ref="char:EOLhyphen"/>able to Alter this Rubrick, eſpecially ſince that before this Creed ſeems doubtful in this matter; whence both Rubricks laid together, ſeems to ſpeak the Church fickle and uncertain in her judgment, and that even in a Caſe too clear to admit a Scruple.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <p>3. As to the Damnatory Sentence in this Creed, this Pamphlet will not have it reſtrained to the Proceſſion of the holy Ghoſt, or to any particular Article, but to reſpect the whole, and conſequently not to affect the Greek Church; this is a point which I will not grant him, nor at preſent deny; becauſe if we ſuppoſe what he ſaith, I have yet enough to my purpoſe, ſince it is generally taken otherwiſe, and many are extreamly ſcan<g ref="char:EOLhyphen"/>dalized at it; therefore it is neceſſary for the Church to omit this Creed, or elſe to Alter or explain
+<pb n="31" facs="tcp:41920:18"/>this ſentence, that ſo Some may not be affrighted from us, and others be enabled to meet together with one mind, as well as in one place.</p>
+                     <p>Since the finiſhing this Piece, there is publiſhed a Book Intituled, <hi>Remarks on Two Letters;</hi> the Author hath too much Reaſon to miſtake the Caſe, and had he as much Sincerity, he would not have Miſrepeſented it: How far he is guilty this way, will appear from this Tract, as well as what hath been already done by ano<g ref="char:EOLhyphen"/>ther hand.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
